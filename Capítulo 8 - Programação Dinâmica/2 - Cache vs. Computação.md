@@ -8,4 +8,4 @@ A troca entre espaço e tempo explorada em programação dinâmica é melhor ilu
 
 Os números de Fibonacci foram originalmente definidos pelo matemático italitano Fibonacci no século XIII para modelar o crescimento das populações de coelho.Os coelhos. Coelhos se reproduzem, bem, como coelhos. Fibonacci supôs que o número de pares de coelhos nascidos em um dado ano é igual ao número de pares de coelhos nascidos em cada um dos dois anos anteriores, começando com um par de coelhos no primeiro ano. Para contar o número de coelhos nascidos no ano n, ele definiu a relação de recorrência:
 
-<p align="center"><img src="../imgs/Número_de_Fibonacci.png?raw=true" alt="Número de Fibonacci" title="Número de Fibonacci"><br><sub>Número de Fibonacci</sub></p>
+<p align="center"><img src="../imgs/Número_de_Fibonacci.png?raw=true" alt="Número de Fibonacci" title="Número de Fibonacci"><br></p>
