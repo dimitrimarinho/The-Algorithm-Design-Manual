@@ -12,7 +12,7 @@ A programação dinâmica é uma técnica para implementar eficientemente um alg
 
 A programação dinâmica é geralmente o método correto para problemas de otimização em objetos combinatórios que possuem uma ordem inerente da esquerda para direita entre os componentes. Os objetos da esquerda para direita incluem: cadeia de caracteres, árvores com raiz, polígonos, e sequências inteiras. A programação dinâmica é melhor aprendida estudando cuidadosamente os exemplos até que as coisas comecem a clicar. Apresentamos três histórias de guerra em que a programação dinâmica desempenhou o papel decisivo para demonstrar sua utilidade na prática.
 
-# Nota da tradução:
+# Nota da tradução
 
 ## Glossário
 
