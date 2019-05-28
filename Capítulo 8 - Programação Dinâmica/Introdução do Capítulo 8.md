@@ -7,7 +7,7 @@ Algoritmos para problemas de otimização exigem prova de que eles sempre retorn
 A programação dinâmica combina o melhor dos dois mundos. Ela nos dá um jeito de projetar algoritmos personalizados que pesquisam sistematicamente todas as possibilidades (garantindo assim a correção) ao armazenar os resultados para evitar a recomputação (proporcionando assim eficiência). Ao armazenar as consequências de todas as decisões possíveis e usar esta informação de maneira sistemática, a quantidade total de trabalho é minimizada.
 
 
-# Nota da tradução:
+# Nota da tradução
 
 ## Glosário
 
