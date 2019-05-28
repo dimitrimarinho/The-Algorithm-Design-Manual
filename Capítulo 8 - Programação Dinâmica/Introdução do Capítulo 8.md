@@ -16,6 +16,6 @@ A programação dinâmica é geralmente o método correto para problemas de otim
 
 ## Glossário
 
-TSP - *Traveling Salesman Problem* ou Problema do Caixeiro Viajante (PCV) em português (PT-BR).
+**TSP** - *Traveling Salesman Problem* ou Problema do Caixeiro Viajante (PCV) em português (PT-BR).
 
-Algoritmos de busca exaustiva - Também conhecidos como Algoritmos de Força Bruta (*Brute Force Algorithm*)
+**Algoritmos de busca exaustiva** - Também conhecidos como Algoritmos de Força Bruta (*Brute Force Algorithm*)
