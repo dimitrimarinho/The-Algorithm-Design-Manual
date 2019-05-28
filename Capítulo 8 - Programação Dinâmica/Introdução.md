@@ -1,3 +1,5 @@
 ## Programação Dinâmica
 
-Os problemas algorítmicos mais desafiadores envolvem a otimização, onde buscamos encontrar uma solução que maximize ou minimize alguma função. O vendedor viajante é um problema clássico de otimização, onde buscamos o passeio visitando todos os vértices de um grafo pelo custo total mínimo.
+Os problemas algorítmicos mais desafiadores envolvem a otimização, onde buscamos encontrar uma solução que maximize ou minimize alguma função. O vendedor viajante é um problema clássico de otimização, onde buscamos o passeio visitando todos os vértices de um grafo pelo custo total mínimo. Mas, como mostrado no Capítulo 1, é fácil propor "algoritmos" que geram soluções razoáveis, mas nem sempre produzam o passeio de custo mínimo.
+
+Algoritmos para problemas de otimização exigem prova de que eles sempre retornam a melhor solução possível.
