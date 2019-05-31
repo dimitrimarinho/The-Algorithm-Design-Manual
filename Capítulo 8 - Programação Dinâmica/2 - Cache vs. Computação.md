@@ -16,6 +16,9 @@ Uma vez que eles são definidos por um fórmula recursiva, é fácil escrever um
 
 <p align="center"><img src="../imgs/Algoritmo-recusivo-que-calcula-Fibonacci.png?raw=true" alt="Algoritmo em C que calcula o número de Fibonacci" title="Algoritmo em C que calcula o número de Fibonacci"><br></p>
 
+<p align="center"><img src="../imgs/Árvore-recursiva-para-calcular-Fibonacci.png?raw=true" alt="Algoritmo em C que calcula o número de Fibonacci" title="Árvore recursiva para calcular o número de Fibonacci"><br></p>
+
+<p align="center"> Figura 8.1: A árvore de computação para calcular os números de Fibonacci recursivamente </p>
 
 
 
