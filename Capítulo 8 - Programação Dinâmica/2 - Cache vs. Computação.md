@@ -11,3 +11,11 @@ Os números de Fibonacci foram originalmente definidos pelo matemático italitan
 <p align="center"><img src="../imgs/Número_de_Fibonacci.png?raw=true" alt="Número de Fibonacci" title="Número de Fibonacci"><br></p>
 
 com os casos bases F<sub>0</sub> = 0 e F<sub>1</sub> = 1. Assim, F<sub>2</sub> = 1, F<sub>3</sub> = 2, e a série continua {3, 5, 8, 13, 21, 34, 55, 89, 144, ...}. Como se vê, a fórmula de Fibonacci não fez um bom trabalho contando coelhos, mas ela tem uma série de propriedades interessantes.
+
+Uma vez que eles são definidos por um fórmula recursiva, é fácil escrever um programa recursivo para calcular o n-ésimo número de Fibonacci. Um algoritmo de função recursiva escrito em C se parece com isso:
+
+<p align="center"><img src="../imgs/Algoritmo-recusivo-que-calcula-Fibonacci.png?raw=true" alt="Algoritmo em C que calcula o número de Fibonacci" title="Algoritmo em C que calcula o número de Fibonacci"><br></p>
+
+
+
+
