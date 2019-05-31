@@ -22,5 +22,7 @@ Uma vez que eles são definidos por um fórmula recursiva, é fácil escrever um
 
 O curso de execução para este algoritmo recursivo é ilustrado por sua árvore de recursão, conforme ilustrado na Figura 8.1. Esta árvore é avaliada em profundidade, assim como todos os algoritmos recursivos. Encorajo-vos a traçar este exemplo à mão para refrescar seu conhecimento de recursão.
 
+Observe que F(4) é calculado em ambos os lados da árvore de recursão e F(2) é computado não menos do que cinco vezes neste pequeno exemplo. O peso de toda essa redundância fica claro quando você executa o programa. Demorou mais de 7 minutos para o meu programa calcular os 45 primeiros números de Fibonacci. Você provavelmente poderia fazê-lo mais rapidamente usando o algoritmo correto.
+
 
 
