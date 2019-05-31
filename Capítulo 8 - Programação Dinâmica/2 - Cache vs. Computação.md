@@ -20,5 +20,7 @@ Uma vez que eles são definidos por um fórmula recursiva, é fácil escrever um
 
 <p align="center"> Figura 8.1: A árvore de computação para calcular os números de Fibonacci recursivamente </p>
 
+O curso de execução para este algoritmo recursivo é ilustrado por sua árvore de recursão, conforme ilustrado na Figura 8.1. Esta árvore é avaliada em profundidade, assim como todos os algoritmos recursivos. Encorajo-vos a traçar este exemplo à mão para refrescar seu conhecimento de recursão.
+
 
 
