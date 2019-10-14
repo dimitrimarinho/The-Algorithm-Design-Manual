@@ -1,0 +1,30 @@
+Prefácio
+
+
+A maioria dos programadores profissionais que encontrei não está bem preparada para
+resolver problemas de design de algoritmos. Isso é uma pena, porque as técnicas de design de algoritmo
+formam uma das principais práticas de tecnologias da ciência da computação.Projetando
+algoritmos corretos, eficientes e implementáveis para problemas do mundo real requerem
+acesso a dois corpos distintos de conhecimento:
+
+   *Técnicos - Bons projetistas de algoritmos compreendem várias técnicas de desenho
+    de algoritmos, incluindo estruturas de dados, programação dinâmica, pesquisa profunda,
+    retorno e heurística. Talvez a mais importante técnica de design seja a modelagem,
+    a arte de abstrair um mundo real bagunçado aplicando em um problema limpo adequado
+    para ataque algorítmico.
+
+   *Recursos - Bons projetistas de algoritmos estão sobre os ombros de gigantes.
+    Em vez de trabalhar do zero para produzir um novo algoritmo para cada tarefa,
+    eles podem descobrir o que se sabe sobre um problema específico. Ao invés de
+    reimplementar algoritmos populares a partir do zero, eles buscam implementar
+    instruções para servir como ponto de partida. Eles estão familiarizados com muitos
+    problemas clássicos algorítmicos, que fornecem matéria prima suficiente para modelar
+    a maioria das aplicações.
+
+Esse livro pretende ser um manual sobre design de algoritmos, fornecendo acesso a
+tecnologia de algoritmo combinatório para estudantes e profissionais de informática.
+É dividido em duas partes: Técnicas e Recursos. O primeiro é um guia de técnicas gerais
+para o design e análise de algoritmos de computador. A seção 'Recursos' destina-se à
+navegação e referência e inclui o catálogo de recursos algorítmicos, implementações 
+e uma extensa bibliografia.
+    
