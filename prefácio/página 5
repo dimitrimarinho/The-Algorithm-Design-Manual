@@ -1,0 +1,44 @@
+Para o leitor
+
+Fiquei satisfeito com a calorosa recepção que a primeira edição do livro
+'O Manual de Design de Algoritmos', recebeu desde a sua publicação inicial em 1997.
+Foi reconhecido como um guia exclusivo para o uso de técnicas algorítmicas para resolver
+problemas que freqüentemente surgem na prática. Mas muita coisa mudou no mundo desde que o 
+'O Manual de Design de Algoritmos' foi publicado pela primeira vez há dez anos. De fato, 
+se datarmos as origens do design e análise modernos de algoritmos por volta de 1970, 
+aproximadamente 30% da história algorítmica moderna aconteceu desde a primeira vinda do 
+'O Manual de Design de Algoritmos'.
+
+    Três aspectos do livro 'O Manual de Design de Algoritmos' foram particularmente amados:
+    (1) o catálogo de problemas algorítmicos, (2) as histórias de guerra e (3) os componentes 
+    eletrônicos do livro. Esses recursos foram preservados e fortalecidos nesta edição:
+
+    *O Catálogo de Problemas Algorítmicos - Desde descobrir o que se sabe sobre
+    um problema algorítmico pode ser uma tarefa difícil, forneço um catálogo dos
+    75 problemas mais importantes que surgem na prática. Ao navegar neste catálogo, o 
+    aluno ou profissional pode identificar rapidamente como o problema é chamado, o que 
+    se sabe sobre ele e como deve proceder para resolvê-lo. Para ajudar na identificação 
+    do problema, incluímos um par de figuras "antes" e "depois" para cada problema, 
+    ilustrando as especificações de entrada e saída necessárias. Um revisor perspicaz 
+    chamou meu livro de "O Guia do Mochileiro dos Algoritmos", com base neste catálogo.
+
+    O catálogo é a parte mais importante deste livro. Para atualizar o catálogo desta 
+    edição, solicitei 'feedback' dos principais especialistas do mundo em cada problema
+    associado. Foi dada atenção especial à atualização da discussão sobre implementações 
+    de software disponíveis para cada problema.
+
+    *Histórias de guerra - Na prática, problemas de algoritmo não surgem no início de 
+    um grande projeto. Em vez disso, eles geralmente surgem como subproblemas quando se 
+    torna claro que o programador não sabe como proceder ou que a solução atual é inadequada.
+    Para fornecer uma perspectiva melhor de como os problemas de algoritmos surgem no 
+    mundo real, incluímos uma coleção de "histórias de guerra" ou contos de nossa experiência 
+    com problemas reais. A moral dessas histórias é que o design de algoritmos e a análise 
+    não é apenas teoria, mas uma ferramenta importante a ser considerada e usada conforme  
+    necessário.
+    Esta edição mantém todas as histórias de guerra originais (com atualizações conforme 
+    apropriado), além de novas histórias de guerra adicionais que cobrem classificação 
+    externa, algoritmos de gráficos, recozimento simulado e outros tópicos.
+
+    *Componente eletrônico - Como a pessoa mais prática geralmente procura um programa ao 
+    invés de um algoritmo, fornecemos indicadores para implementações sólidas sempre que 
+    disponíveis. Reunimos essas implementações
