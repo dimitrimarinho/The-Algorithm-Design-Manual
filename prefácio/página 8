@@ -1,0 +1,43 @@
+Um grupo seleto de sábios algorítmicos revisou seções do guia do Mochileiro, 
+compartilhando sua sabedoria e me alertando sobre novos desenvolvimentos. Graças a:
+
+        Ami Amir, Herve Bronnimann, Bernard Chazelle, Chris Chu, ScottCotton, 
+        Yefim Dinitz, Komei Fukuda, Michael Goodrich, Lenny Heath,Cihat Imamoglu, 
+        Tao Jiang, David Karger, Giuseppe Liotta, AlbertMao,  Silvano  Martello,  
+        Catherine  McGeoch,  Kurt  Mehlhorn,  ScottA. Mitchell, Naceur Meskini, 
+        Gene Myers, Gonzalo Navarro, StephenNorth, Joe O’Rourke, Mike Paterson, 
+        Theo Pavlidis, Seth Pettie, MichelPocchiola,  Bart  Preneel,  Tomasz  Radzik,  
+        Edward  Reingold,  FrankRuskey,  Peter  Sanders,  Joao  Setubal,  
+        Jonathan  Shewchuk,  RobertSkeel, Jens Stoye, Torsten Suel, Bruce Watson and 
+        Uri Zwick.
+
+    Vários exercícios foram originados por colegas ou inspirados em outros textos. 
+Reconstruir as fontes originais anos depois pode ser um desafio, mas os créditos para 
+cada problema (pelo que me lembro) aparecem no site.
+    Seria rude não agradecer aos contribuintes importantes da edição original. Ricky 
+Bradley e Dario Vlah que construíram a infraestrutura substancial necessária para o site 
+WWW de maneira lógica e extensível. Zhong Li desenhou a maioria das figuras do catálogo 
+usando o xfig. Richard Crandall, Ron Danielson, Takis Metaxas, DaveMiller, Giri Narasimhan 
+e Joe Zachary revisaram versões preliminares da primeira edição; seu feedback atencioso ajudou 
+a moldar o que você vê aqui.
+    Muito do que sei sobre algoritmos, aprendi com meus alunos de graduação. Vários deles 
+(Yaw-Ling Lin, Sundaram Gopalakrishnan, Ting Chen, Francine Evans, Harald Rau, Ricky 
+Bradley e Dimitris Margaritis) são os verdadeiros heróis das histórias de guerra relatadas. 
+Meus amigos e colegas de algoritmo de Stony Brook, Estie Arkin, Michael Bender, Jie Gao e 
+Joe Mitchell, sempre foi um prazer trabalhar e estar com eles. Finalmente, obrigado a Michael 
+Brochstein e ao restante do contingente da cidade por revelar uma vida adequada muito além de 
+Stony Brook.
+
+Ressalva
+
+É tradicional que o autor aceite magnanimamente a culpa por quaisquer deficiências que permaneçam. 
+Eu não. Quaisquer erros, deficiências ou problemas neste livro são culpa de outra pessoa, mas eu 
+gostaria de saber sobre eles para determinar quem é o culpado.
+
+
+                                                                Steven S. Skiena
+                                                                Departamento de Ciência da 
+                                                                Computação da universidade Stony Brook 
+                                                                Stony Brook, NY 11794-4400
+                                                                http://www.cs.sunysb.edu/∼skiena
+                                                                Abril 2008
